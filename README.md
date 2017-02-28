@@ -10,4 +10,4 @@ Once you have made your purchase, you will be given a receipt showing your total
 
 Here is a video outlining the process.  
 
-![Demo of Bamazon!](bamazon_final.gif)
+![Demo of Bamazon!](bamazon_final_v2_1.gif)
